@@ -1,0 +1,28 @@
+C:\Users\ADMIN\source\repos\Client\Client\bin\Debug\net8.0\Client.exe
+C:\Users\ADMIN\source\repos\Client\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\ADMIN\source\repos\Client\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Client\Client\bin\Debug\net8.0\Client.dll
+C:\Users\ADMIN\source\repos\Client\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.dll
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Client\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\ngiemluong\source\repos\Client 2\Client\bin\Debug\net8.0\Client.exe
+C:\Users\ngiemluong\source\repos\Client 2\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\ngiemluong\source\repos\Client 2\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\ngiemluong\source\repos\Client 2\Client\bin\Debug\net8.0\Client.dll
+C:\Users\ngiemluong\source\repos\Client 2\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.dll
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\ngiemluong\source\repos\Client 2\Client\obj\Debug\net8.0\ref\Client.dll
